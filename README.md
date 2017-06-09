@@ -50,7 +50,7 @@ For experts, start with a completely fresh (really, I mean it) Ubuntu 14.04 LTS 
 
 Clone this repository:
 
-	$ git clone https://github.com/mail-in-a-box/mailinabox
+	$ git clone https://github.com/14roiron/mailinabox
 	$ cd mailinabox
 
 _Optional:_ Download my PGP key and then verify that the sources were signed
